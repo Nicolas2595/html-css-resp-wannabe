@@ -76,6 +76,10 @@
 
   @media screen and (max-width: 420px) {
     
+    .row {
+        width: 100%;
+    }
+    
     /*Blocco Lezioni*/
     #lezioni .row>.left,
     #lezioni .row>.right {
